@@ -1,0 +1,10 @@
+c:\users\matthewt\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe.config
+c:\users\matthewt\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe
+c:\users\matthewt\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.pdb
+c:\users\matthewt\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\Newtonsoft.Json.dll
+c:\users\matthewt\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\Newtonsoft.Json.xml
+c:\users\matthewt\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csprojAssemblyReference.cache
+c:\users\matthewt\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.CoreCompileInputs.cache
+c:\users\matthewt\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.CopyComplete
+c:\users\matthewt\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.exe
+c:\users\matthewt\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.pdb

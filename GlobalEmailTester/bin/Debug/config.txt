@@ -1,0 +1,15 @@
+Internal License-90fv0qperdfpwdofwdfas87
+Customer License-OsOJYIr4qKPXEd4Nf4jyMY**
+Test Email List Path-C:\Users\matthewt\Desktop\log.txt
+Global Email Services List Path-C:\Users\matthewt\Desktop\ServiceIPs.txt
+Recieve Email-C:\Users\matthewt\Desktop\RecieveEmailList.txt
+SavePath-C:\Users\matthewt\Documents\LOGS
+Testing Option-ALL
+LastFileNameCache-C:\Users\matthewt\Desktop\FileNameCache.txt
+
+Both Test Email List and Global Email Services Lists are Tab Delemitted
+interval min
+savepath
+Testing can be "WEST" "EAST" "ALL" "GLOBALEMAIL"  "PROXYEMAILROUTER" "EBPEMAILROUTER" "WS" "GOLD"
+tests can be used to test the location west/east or at all the different levels of global email
+Recieve Email List has each email on a new line
